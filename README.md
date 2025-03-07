@@ -1,2 +1,1 @@
-# Primeira APS de 2025
- Local de armazenamento da minha primeira APS e eu nem sei o que é pra fazer
+# Essa é a primeira APS usando HTML na matéria de Desenvolvimento Web da faculdade de Sistemas de Informação - feito por Pedro da turma SI1B.
